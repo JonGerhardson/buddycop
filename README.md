@@ -15,7 +15,7 @@ You will then be prompted to
 - Enter directory containing .json/.vtt files:
 - Enter target timestamp (ISO 8601 format, e.g., 2024-05-08T02:04:14.016256Z): **This is found in the .json file.**
 - Enter officer name to check proximity to:`**John Doe**
--Maximum proximity distance in meters [100]: **put 100 unless special case**
+- Maximum proximity distance in meters [100]: **put 100 unless special case**
 
 I will upload some example files in the near future. I need to keep those to myself for the time being, sorry.
 
