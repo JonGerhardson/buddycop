@@ -24,8 +24,9 @@ I will upload some example files in the near future. I need to keep those to mys
 
 Here is the output with names/times obscured in the meantimes. 
 
-ps/buddycop3-getting_too_old_for_this_shit.py
-Enter directory containing .json/.vtt files: /media/jon/MURRICA/ingest.iad.hammy.network/rawzips
+'python buddycop3-getting_too_old_for_this_shit.py'
+
+'Enter directory containing .json/.vtt files: /path/
 Enter target timestamp (ISO 8601 format, e.g., 2024-05-08T02:04:14.016256Z): 2024-05-07T23:53:10.196220Z        
 Enter officer name to check proximity to: Luis Rodriguez 
 Maximum proximity distance in meters [100]: 100
@@ -41,6 +42,6 @@ Nearby officers:
  - William DeFoe: 5.51 meters away
  - Jane Kelly: 8.13 meters away
  - Kevin Shields: 8.16 meters away
- - Ur Mama: 13.90 meters away
+ - Ur Mama: 13.90 meters away'
 
 Much credit to [Haylin Moore](https://github.com/haylinmoore) whose much better work inspired me to prompt deepseek into spitting this code out.  
