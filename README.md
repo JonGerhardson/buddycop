@@ -1,9 +1,10 @@
 
-Body-word camera metadata analysis. 
+Analyze body-worn camera metadata to find nearby officers 
 
-This is a python script for locating nearby officers using timestamps and GPS coordinates from body worn camera metadata. It was created using data from Motorola V300 Body Cameras, but may work with others that format metadata the same way, including I suspect, all Motorola Watch Guard products.
+This is a python script for locating nearby officers using timestamps and GPS coordinates from body worn camera metadata. It was created using data from Motorola V300 Body Cameras, used by the Massachusetts State Police, but may work with others that format metadata the same way, including I suspect, all Motorola Watch Guard products.
 
-Say you've got a big folder full of hundreds of hours of body cam footage, and you want to know if an officer was close enough to another one to possibly have seen something from a different angle. This will help you figure out which officer.
+What's this good for? 
+Say you've got a big folder full of hundreds of hours of body cam footage, and you want to know if an officer was close enough to another one to possibly have seen something from a different angle. This will help you figure out which officer was nearby so you can review their footage. 
 
 Requirements: Python 3.7+
 
