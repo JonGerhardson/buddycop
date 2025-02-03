@@ -20,7 +20,7 @@ I will upload some example files in the near future. I need to keep those to mys
 
 Here is the output with names/times obscured in the meantimes.
 
-`$ python buddycop3-getting_too_old_for_this_shit.py Enter directory containing .json/.vtt files: /path/ Enter target timestamp (ISO 8601 format, e.g., 2024-05-08T02:04:14.016256Z): 2024-05-07T23:53:10.196220Z Enter officer name to check proximity to: Fred Flinstone Maximum proximity distance in meters [100]: 100`
+`$ python buddycop3-getting_too_old_for_this_shit.py Enter directory containing .json/.vtt files: /path/ Enter target timestamp (ISO 8601 format, e.g., 2024-05-08T02:04:14.016256Z): 2024-06-07T13:43:10.196220Z Enter officer name to check proximity to: Fred Flinstone Maximum proximity distance in meters [100]: 100`
 
 `Processing files...`
 
